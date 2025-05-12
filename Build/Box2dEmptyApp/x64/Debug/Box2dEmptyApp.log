@@ -1,0 +1,17 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(50,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(50,55): warning C4244:         with
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(50,55): warning C4244:         [
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(50,55): warning C4244:             T=float
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(50,55): warning C4244:         ]
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(55,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(55,56): warning C4244:         with
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(55,56): warning C4244:         [
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(55,56): warning C4244:             T=float
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\Game.cpp(55,56): warning C4244:         ]
+  SFMLRenderer.cpp
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\SFMLRenderer.cpp(122,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Src\SFMLRenderer.cpp(122,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Box2dEmptyApp.vcxproj -> C:\Users\Usuario\Desktop\Lu Facultad\MAVII\Test TP1 Ej2\Bin\Debug\Box2dEmptyApp.exe
